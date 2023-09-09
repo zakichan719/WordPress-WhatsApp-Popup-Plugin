@@ -57,7 +57,7 @@ This plugin is released under the [GPL-2.0 License](LICENSE).
 
 ## Author
 
-- **Author:** Your Name
+- **Author:** zakariae belkhnati
 - **GitHub:** [Your GitHub Profile](https://github.com/zakichan719)
 
 Feel free to [report issues](https://github.com/zakichan719/wordpress-whatsApp-popup-plugin/issues) or [contribute](https://github.com/zakichan719/wordpress-whatsApp-popup-plugin/pulls) to this project.
