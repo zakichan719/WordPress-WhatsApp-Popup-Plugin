@@ -1,7 +1,7 @@
 # WordPress WhatsApp Popup Plugin
 
-https://github.com/zakichan719/WordPress-WhatsApp-Popup-Plugin/blob/master/WhatsApp.png
-
+ 
+![WordPress WhatsApp Popup](WhatsApp.png)
 ## Description
 
 The WordPress WhatsApp Popup Plugin allows you to easily add a customizable WhatsApp button to your WordPress website. With this plugin, you can engage with your visitors through WhatsApp, making it convenient for them to get in touch with you.
@@ -66,4 +66,4 @@ Feel free to [report issues](https://github.com/zakichan719/wordpress-whatsApp-p
 
 If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or submit a pull request on GitHub. Your contributions are welcome and appreciated!
 
-![WordPress WhatsApp Popup](screenshot.png)
+![WordPress WhatsApp Popup](WhatsApp.png)
