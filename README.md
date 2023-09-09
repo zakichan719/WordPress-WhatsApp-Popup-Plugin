@@ -1,6 +1,6 @@
 # WordPress WhatsApp Popup Plugin
 
-[screenshot.png](https://github.com/zakichan719/WordPress-WhatsApp-Popup-Plugin/blob/master/WhatsApp.png)
+https://github.com/zakichan719/WordPress-WhatsApp-Popup-Plugin/blob/master/WhatsApp.png
 
 ## Description
 
