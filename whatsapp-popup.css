@@ -1,0 +1,23 @@
+ 
+.my-float {
+    margin-top: 16px;
+}
+
+.float {
+    width: 60px;
+    height: 60px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 40px;
+    text-align: center;
+    padding: 10px 13px;
+    font-size: 44px;
+    box-shadow: 2px 2px 3px #999;
+}
+.whatsapp-popup {
+    position: fixed;
+    bottom: 23px;
+    right: 26px;
+    z-index: 100;
+  
+}
