@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: WhatsApp Popup
-Description: Display a WhatsApp popup button.
+Description: Display a WhatsApp popup button. Visit our website at https://zakichan.com .
 Version: 1.0
-Author: zakichan
+Author: Zakariae Belkhnati
 */
  
 
